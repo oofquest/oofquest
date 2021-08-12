@@ -1,16 +1,21 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=oofquest&color=red)
 
-<!--
-**oofquest/oofquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my Github 👋
 
-Here are some ideas to get you started:
+Here is some things you may wanna know about:
+```js
+const aboutMe = {
+  'workingOn': 'Right now, I am working on a Discord Bot with moderation commands.',
+  'learning': 'Javascript, maybe Python too😉',
+  'discord': 'oofquest#0005, feel free to contact me at any time!',
+  'website': '[click here](https://oof.aprim.xyz)
+  'pronouns': 'he, him'
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+
+### Stats
+
+![image](https://github-readme-stats.vercel.app/api?username=oofquest)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=oofquest)
