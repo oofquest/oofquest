@@ -8,7 +8,7 @@ const aboutMe = {
   'workingOn': 'Right now, I am working on a Discord Bot with moderation commands.',
   'learning': 'Javascript, maybe Python too😉',
   'discord': 'oofquest#0005, feel free to contact me at any time!',
-  'website': '![click here](https://oof.aprim.xyz)',
+  'website': 'https://oofy.cub0rd.xyz',
   'pronouns': 'he, him'
 }
 
