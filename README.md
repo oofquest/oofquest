@@ -7,7 +7,7 @@ Here is some things you may wanna know about:
 const aboutMe = {
   'workingOn': 'Right now, I am working on a Discord Bot with moderation commands.',
   'learning': 'Javascript, maybe Python too 😉',
-  'discord': 'oofquest#0070, feel free to contact me at any time!',
+  'contacr': 'Email me at: oofquest@cub0rd.xyz or Contact me on discord (oofquest#0070, feel free to contact me at any time!)',
   'website': 'https://oofy.cub0rd.xyz',
   'pronouns': 'he, him'
 }
