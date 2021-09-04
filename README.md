@@ -18,6 +18,6 @@ const aboutMe = {
 
 
 ### Stats
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/478660635148681218)](https://discord.com/users/478660635148681218)
-![image](https://github-readme-stats.vercel.app/api?username=oofquest)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/478660635148681218
+                            )](https://discord.com/users/478660635148681218)![image](https://github-readme-stats.vercel.app/api?username=oofquest)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=oofquest)
